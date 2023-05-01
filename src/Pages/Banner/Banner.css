@@ -1,3 +1,9 @@
+.banner{
+    background-image: url(../../assets/images/bg-image-9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
 .video{
     font-size: 22px;
     margin: 10px;
@@ -36,12 +42,34 @@
     border: none;
     border-radius: 500px;
     padding: 15px 30px;
-    color: white;
-    background-image: linear-gradient(to right, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+    background-color: #F2F2F0;
+    background-image: linear-gradient(to right, white);
 }
 .btn-two:hover{
-    background-image: linear-gradient(to left, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+    background-color: #2f57ef;
+    color: white;
 }
 .btn-one:hover{
     background-image: linear-gradient(to left, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+.video-img img{
+    border-radius: 8px;
+    width: 100%;
+    position: relative;
+}
+.play-icon{
+    font-size: 40px;
+    left: 25%;
+    top: 5%;
+    position: absolute;
+}
+.fa{
+    padding: 40px;
+    background: #F2F2F0;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    left: 70%;
+    top: 40%;
+    position: absolute;
 }
