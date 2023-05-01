@@ -1,7 +1,7 @@
 import React from 'react';
 import './Banner.css';
 import { Col, Row } from 'react-bootstrap';
-import { FaPhotoVideo, FaPlayCircle } from 'react-icons/fa';
+import { FaPhotoVideo, FaPlayCircle, FaArrowRight } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import client from '../../assets/images/client-02.png';
 import video from '../../assets/images/video-02.jpg';
@@ -23,8 +23,8 @@ const Banner = () => {
                             <h1 className='online mb-4 fw-bold'>Online Courses</h1>
                             <p className='mt-2 fw-semibold p-text'>Dive in and learn React.js from scratch! Learn React js, Hooks, Redux, React Routing, Animations, Next.js and way more!</p>
                             <div>
-                                <button className='btn-one'>Login To Start</button>
-                                <button className='btn-two ms-4'>Buy The Course</button>
+                                <button className='btn-one'>Login To Start <FaArrowRight></FaArrowRight></button>
+                                <button className='btn-two ms-4'>Buy The Course <FaArrowRight></FaArrowRight></button>
                             </div>
                         </div>
                     </Col>
