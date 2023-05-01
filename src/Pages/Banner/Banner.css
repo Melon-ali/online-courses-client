@@ -1,0 +1,47 @@
+.video{
+    font-size: 22px;
+    margin: 10px;
+    color: gray;
+}
+.online{
+    font-size: 80px;
+}
+.p-text{
+    font-size: 20px;
+    line-height: 35px;
+    color: gray;
+}
+.image{
+    text-decoration: none;
+    padding: 0 20px;
+    border: 2px solid white;
+    border-radius: 500px;
+    background: rgba(226, 213, 252, 0.8);
+}
+.image img{
+    max-width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.btn-one{
+    font-size: 20px;
+    border: none;
+    border-radius: 500px;
+    padding: 15px 30px;
+    color: white;
+    background-image: linear-gradient(to right, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+.btn-two{
+    font-size: 20px;
+    border: none;
+    border-radius: 500px;
+    padding: 15px 30px;
+    color: white;
+    background-image: linear-gradient(to right, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+.btn-two:hover{
+    background-image: linear-gradient(to left, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+.btn-one:hover{
+    background-image: linear-gradient(to left, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
