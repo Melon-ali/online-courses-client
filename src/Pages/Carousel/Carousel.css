@@ -1,0 +1,32 @@
+.card-box{
+    box-shadow: 10px 10px 30px 10px #FFF2FD;
+}
+.image1{
+    width: 100%;
+}
+.image2 img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: -30px;
+}
+.top-img{
+    
+}
+.text{
+    color: gray;
+}
+.text2{
+    font-size: 16px;
+    color: gray;
+}
+.read{
+    background: none;
+    border: none;
+    font-weight: bold;
+}
+.read:hover{
+    background: none;
+    border: none;
+    color: #3383f4;
+}
