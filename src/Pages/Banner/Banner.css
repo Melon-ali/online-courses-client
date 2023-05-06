@@ -55,21 +55,5 @@
 .video-img img{
     border-radius: 8px;
     width: 100%;
-    position: relative;
 }
-.play-icon{
-    font-size: 40px;
-    left: 25%;
-    top: 5%;
-    position: absolute;
-}
-.fa{
-    padding: 40px;
-    background: #F2F2F0;
-    width: 50px;
-    height: 50px;
-    border-radius: 50px;
-    left: 70%;
-    top: 40%;
-    position: absolute;
-}
+

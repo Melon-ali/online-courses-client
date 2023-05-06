@@ -31,11 +31,7 @@ const Banner = () => {
                     <Col lg={6}>
                         <div className='p-5 m-auto video-img'>
                             <img src={video} alt="" />
-                            <Link href='https://www.youtube.com/watch?v=g1InechEQ-4'>
-                                <div className='fa'>
-                                    <span className='play-icon'><FaPlayCircle></FaPlayCircle></span>
-                                </div>
-                            </Link>
+                            
                         </div>
                     </Col>
                 </Row>

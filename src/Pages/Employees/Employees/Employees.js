@@ -12,8 +12,8 @@ const Employees = () => {
     }, []);
 
     return (
-        <div className='container mt-5 mb-5'>
-            <div  className="row row-cols-1 row-cols-md-3 g-4">
+        <div className='container mt-5 pt-5 pb-5 mb-5'>
+            <div className="row row-cols-1 row-cols-md-3 g-4">
                 {
                     employees.map(employee => <Employee
                         key={employee.id}

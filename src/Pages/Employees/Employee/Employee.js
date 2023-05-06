@@ -7,7 +7,7 @@ const Employee = ({employee}) => {
     return (
         <div>
             <div className="col">
-                <div className="p-3 card-box rounded">
+                <div className="p-5 card-box rounded">
                     <div className='d-flex align-items-center'>
                             <div className='image2'>
                                 <img src={img} class="card-img-left" alt="..." />

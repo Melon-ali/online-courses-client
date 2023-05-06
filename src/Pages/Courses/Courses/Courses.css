@@ -1,0 +1,15 @@
+.bg-color{
+    background-color: #F9F9FF;
+}
+.courses{
+    background-color: #b966e721;
+    color: #b966e7;
+    padding: 12px;
+    width: 10%;
+    height: 10%;
+    margin: auto;
+    border-radius: 500px;
+}
+.all{
+    font-size: 60px;
+}
