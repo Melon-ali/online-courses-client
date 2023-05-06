@@ -1,7 +1,7 @@
 import React from 'react';
 import './Banner.css';
 import { Col, Row } from 'react-bootstrap';
-import { FaPhotoVideo, FaPlayCircle, FaArrowRight } from 'react-icons/fa';
+import { FaPhotoVideo, FaArrowRight } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import client from '../../assets/images/client-02.png';
 import video from '../../assets/images/video-02.jpg';
