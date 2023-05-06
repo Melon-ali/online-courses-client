@@ -1,0 +1,35 @@
+.card-box{
+    box-shadow: 10px 10px 30px 10px #FFF2FD;
+}
+.c-box{
+    background-color: #FFE4FD;
+}
+.c-box p{
+    line-height: 30px;
+}
+.image1{
+    width: 100%;
+}
+.image2 img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: -30px;
+}
+.text{
+    color: gray;
+}
+.text2{
+    font-size: 16px;
+    color: gray;
+}
+.read{
+    background: none;
+    border: none;
+    font-weight: bold;
+}
+.read:hover{
+    background: none;
+    border: none;
+    color: #3383f4;
+}
