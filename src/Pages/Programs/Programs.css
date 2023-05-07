@@ -1,0 +1,14 @@
+.programs{
+    background-image: linear-gradient(to right, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+.pro{
+    font-size: 20px;
+    border: none;
+    padding: 20px 30px;
+    background-color: white;
+    background-image: linear-gradient(to right, white);
+}
+.pro:hover{
+    background-color: #b966e7;
+    color: white;
+}

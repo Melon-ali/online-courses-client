@@ -5,6 +5,7 @@ import Carousels from '../../Carousels/Carousels';
 import Courses from '../../Courses/Courses/Courses';
 import Services from '../../Services/Services/Services';
 import About from '../../About/About';
+import Programs from '../../Programs/Programs';
 
 const Home = () => {
     return (
@@ -15,6 +16,7 @@ const Home = () => {
             <Courses></Courses>
             <Services></Services>
             <About></About>
+            <Programs></Programs>
         </div>
     );
 };
