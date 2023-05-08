@@ -1,0 +1,32 @@
+.online{
+    font-size: 60px;
+}
+.p-text{
+    font-size: 22px;
+    line-height: 25px;
+}
+.btn-one{
+    font-size: 20px;
+    border: none;
+    border-radius: 500px;
+    padding: 20px 30px;
+    color: white;
+    background-image: linear-gradient(to right, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+.btn-one:hover{
+    background-image: linear-gradient(to left, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+.social-icon:hover{
+    color:  #b966e7;
+}
+.form-group{
+    box-shadow: 0px 0px 30px 0px #FFF2FD;
+}
+
+Form .f-input{
+    font-size: 20px;
+    border: 0;
+    border-bottom: 2px solid #FFF2FD;
+    border-radius: 0;
+    box-shadow: 10px 10px 30px 10px #FFF2FD;
+}

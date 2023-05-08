@@ -10,7 +10,7 @@ const Programs = () => {
                 <Row className='pt-5 pb-5 mt-5 mb-5 align-items-center'>
                     <Col lg={3}>
                         <div className='p-2'>
-                           <h1 className='fw-bold text-white'>Scholarship Programs</h1> 
+                           <h1 className='fw-bold text-white'>Scholarship <br /> Programs</h1> 
                         </div>
                     </Col>
                     <Col lg={6}>

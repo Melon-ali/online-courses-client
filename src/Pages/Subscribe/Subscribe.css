@@ -1,0 +1,20 @@
+.subscribe{
+    background-image: linear-gradient(to right, #fafafa, #fafafa, #f7e1fbca,  #f6e0fccb);
+}
+.btn-subscribe{
+    font-size: 20px;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    background-image: linear-gradient(to right, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+.btn-subscribe:hover{
+    background-image: linear-gradient(to left, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+Form .fm-input{
+    font-size: 20px;
+    border: 0;
+}
+.form-subscribe{
+    background-color: white;
+}

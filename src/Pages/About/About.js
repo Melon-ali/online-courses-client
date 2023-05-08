@@ -21,7 +21,7 @@ const About = () => {
                             <h1 className='online pt-2 pb-2 fw-bold'>What is Histudy For You?.</h1>
                             <p className='p-text pt-4 pb-3'><span className='fw-bold'>Histudy educational platform</span> ipsum dolor sit amet consectetur adipisicing elit. Nam inventore praesentium alias incidunt! Veritatis, necessitatibus fuga dolore tenetur, beatae suscipit fugit est ea perspiciatis quo provident nisi dolor similique architecto nihil.</p>
                             <div>
-                                <button className='btn-one'>More About Us</button>
+                                <button className='btn-one fw-bold'>More About Us</button>
                             </div>
                         </div>
                     </Col>
