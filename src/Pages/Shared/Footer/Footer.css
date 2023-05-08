@@ -1,0 +1,18 @@
+.btn-footer{
+    font-size: 20px;
+    border: 2px solid #b966e7;
+    border-radius: 500px;
+    padding: 20px 30px;
+}
+.btn-footer:hover{
+    border: 2px solid white;
+    background-image: linear-gradient(to left, #b966e7, #b966e7, #2f57ef,  #2f57ef);
+}
+.p-color{
+    color: #6b7385;
+}
+.footer-list{
+    text-decoration: none;
+    font-size: 20px;
+    color: #6b7385;
+}

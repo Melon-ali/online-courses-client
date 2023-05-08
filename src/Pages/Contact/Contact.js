@@ -22,15 +22,21 @@ const Contact = () => {
                                         <FaFacebook></FaFacebook>
                                     </Link>
                                     </div>
-                                    <Link className='ms-4 fs-4 social-icon' target='_blank' to='https://github.com/Melon-ali'>
-                                        <FaGithub></FaGithub>
-                                    </Link>
-                                    <Link className='ms-4 fs-4 social-icon' target='_blank' to='https://www.instagram.com/md.melon.581/'>
+                                    <div>
+                                        <Link className='ms-4 fs-4 social-icon' target='_blank' to='https://github.com/Melon-ali'>
+                                            <FaGithub></FaGithub>
+                                        </Link>
+                                    </div>
+                                    <div>
+                                        <Link className='ms-4 fs-4 social-icon' target='_blank' to='https://www.instagram.com/md.melon.581/'>
                                         <FaInstagram></FaInstagram>
-                                    </Link>
-                                    <Link className='ms-4 fs-4 social-icon' target='_blank' to='https://www.linkedin.com/in/melon-ali/'>
+                                        </Link>
+                                    </div>
+                                    <div>
+                                        <Link className='ms-4 fs-4 social-icon' target='_blank' to='https://www.linkedin.com/in/melon-ali/'>
                                         <FaLinkedin></FaLinkedin>
-                                    </Link>
+                                        </Link>
+                                    </div>
                                 </div>
                             </div>
                         </div>
